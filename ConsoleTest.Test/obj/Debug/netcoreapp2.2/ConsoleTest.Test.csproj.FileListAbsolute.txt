@@ -1,0 +1,17 @@
+C:\Users\Main User\source\repos\ConsoleTest\ConsoleTest.Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Main User\source\repos\ConsoleTest\ConsoleTest.Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Main User\source\repos\ConsoleTest\ConsoleTest.Test\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Main User\source\repos\ConsoleTest\ConsoleTest.Test\bin\Debug\netcoreapp2.2\ConsoleTest.Test.deps.json
+C:\Users\Main User\source\repos\ConsoleTest\ConsoleTest.Test\bin\Debug\netcoreapp2.2\ConsoleTest.Test.runtimeconfig.json
+C:\Users\Main User\source\repos\ConsoleTest\ConsoleTest.Test\bin\Debug\netcoreapp2.2\ConsoleTest.Test.runtimeconfig.dev.json
+C:\Users\Main User\source\repos\ConsoleTest\ConsoleTest.Test\bin\Debug\netcoreapp2.2\ConsoleTest.Test.dll
+C:\Users\Main User\source\repos\ConsoleTest\ConsoleTest.Test\bin\Debug\netcoreapp2.2\ConsoleTest.Test.pdb
+C:\Users\Main User\source\repos\ConsoleTest\ConsoleTest.Test\bin\Debug\netcoreapp2.2\ConsoleTest.dll
+C:\Users\Main User\source\repos\ConsoleTest\ConsoleTest.Test\bin\Debug\netcoreapp2.2\ConsoleTest.pdb
+C:\Users\Main User\source\repos\ConsoleTest\ConsoleTest.Test\obj\Debug\netcoreapp2.2\ConsoleTest.Test.csprojAssemblyReference.cache
+C:\Users\Main User\source\repos\ConsoleTest\ConsoleTest.Test\obj\Debug\netcoreapp2.2\ConsoleTest.Test.csproj.CoreCompileInputs.cache
+C:\Users\Main User\source\repos\ConsoleTest\ConsoleTest.Test\obj\Debug\netcoreapp2.2\ConsoleTest.Test.AssemblyInfoInputs.cache
+C:\Users\Main User\source\repos\ConsoleTest\ConsoleTest.Test\obj\Debug\netcoreapp2.2\ConsoleTest.Test.AssemblyInfo.cs
+C:\Users\Main User\source\repos\ConsoleTest\ConsoleTest.Test\obj\Debug\netcoreapp2.2\ConsoleTest.Test.csproj.CopyComplete
+C:\Users\Main User\source\repos\ConsoleTest\ConsoleTest.Test\obj\Debug\netcoreapp2.2\ConsoleTest.Test.dll
+C:\Users\Main User\source\repos\ConsoleTest\ConsoleTest.Test\obj\Debug\netcoreapp2.2\ConsoleTest.Test.pdb
